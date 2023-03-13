@@ -2,6 +2,11 @@
 
 /*font-family: 'Syne', sans-serif;
 font-family: 'Roboto', sans-serif;*/
+
+body {
+    overflow-x: hidden;
+}
+
 h1,
 h2,
 h3,
@@ -491,7 +496,7 @@ h6 {
     text-transform: uppercase;
 }
 
-#contact .contact-img{
+#contact .contact-img {
     width: 450px;
     height: 450px;
     display: flex;
@@ -503,15 +508,15 @@ h6 {
 }
 
 
-#contact .contact-about{
+#contact .contact-about {
     margin-bottom: 180px;
 }
 
-#contact h2{
+#contact h2 {
     color: #d3d3d3;
 }
 
-#contact p{
+#contact p {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: #d3d3d3;
