@@ -1,0 +1,33 @@
+/*---PROJETOS---*/
+
+#projetos {
+    width: 100%;
+    height: 750px;
+    scroll-margin-top: 85px;
+}
+
+#projetos h2 {
+    color: #343333;
+}
+
+.carousel-control-prev {
+    margin-left: -8rem;
+}
+
+.carousel-control-next {
+    margin-right: -8rem;
+}
+
+.carousel-indicators {
+    margin-bottom: -35px;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.card-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}

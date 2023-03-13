@@ -1,0 +1,35 @@
+/*---CONTATO---*/
+
+#contact h2 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    color: #d3d3d3;
+}
+
+#contact p {
+    font-family: 'Roboto', sans-serif;
+    color: #d3d3d3;
+}
+
+#contact .social-links a {
+    color: #ff1616;
+    font-size: 32px;
+    text-decoration: none;
+    letter-spacing: 10px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+#contact .social-links a:hover {
+    color: #d3d3d3;
+}
+
+#contact .info {
+    font-size: 18px;
+    color: #d3d3d3;
+    position: relative;
+    bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+}
